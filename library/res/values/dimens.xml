@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="list_text_size">5sp</dimen>
+    <dimen name="list_item_height">48dip</dimen>
+
+    <dimen name="list_item_weigth">110dip</dimen>
+    <dimen name="list_img_padding">20dip</dimen>
+    <dimen name="list_bage_heigh">32dip</dimen>
+    <dimen name="list_layout_weigth">120dip</dimen>
+    <dimen name="list_item_padding">15dip</dimen>
+
+</resources>

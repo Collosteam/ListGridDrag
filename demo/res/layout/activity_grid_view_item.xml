@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GridViewAnimations">
+
+    <com.collosteam.ListAndGridViewDragAnimations.grid_list_drag.DynamicGridViewItems
+        android:id="@+id/gridview"
+        android:background="#0000"
+        android:numColumns="3"
+        android:columnWidth="@dimen/list_layout_weigth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
